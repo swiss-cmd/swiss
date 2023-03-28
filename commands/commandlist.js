@@ -4,4 +4,5 @@ module.exports = {
     'tunnel': require('./tunnel'),
     'rsh': require('./rsh'),
     'connectrsh': require('./connectrsh'),
+    report: require('./report')
 }
